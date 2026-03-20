@@ -1,2 +1,3 @@
-# advanced-smart-home-rp4m
+# Advanced Smart Home Rp4M
+
 A repository to test GitHub automation for issue management.
